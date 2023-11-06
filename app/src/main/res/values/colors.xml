@@ -9,6 +9,8 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="textField">#F6F6F7</color>
+    <color name="location">#2443A3</color>
+    <color name="lc_back">#ACBAE4</color>
 
 
 </resources>
